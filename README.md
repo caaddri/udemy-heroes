@@ -8,3 +8,6 @@ Pueden hacer lo que quieran...
 
 ## GitHub
 Cambios realizados en GitHub
+
+## Cambios
+Otro cambio agregado
